@@ -27,3 +27,8 @@
 <a href="https://discord.gg/devs"><img src="https://invidget.switchblade.xyz/xdBnJjUXJv"/></a>
 <br><br>
 </div>
+
+# Need Help
+> Need help? Join our server or you can dm me in discord.
+
+> [![Discord](https://discord.c99.nl/widget/theme-1/552492140270452736.png)](https://discord.com/users/552492140270452736)
