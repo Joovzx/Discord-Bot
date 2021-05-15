@@ -1,3 +1,9 @@
+# Our Discord Server
+
+<a href="https://discord.gg/devs"><img src="https://invidget.switchblade.xyz/xdBnJjUXJv"/></a>
+<br><br>
+</div>
+
 # Discord Bot Template Made By Discord.js
 
 <center><a href="https://discord.com/assets/ef555bf639a11bd65ae3065263788bba.png"><img src="https://discord.com/assets/ef555bf639a11bd65ae3065263788bba.png"></a></center>
@@ -21,12 +27,6 @@
 
 # Language
 - <code><img height="20" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=333333"></code>
-
-# Our Discord Server
-
-<a href="https://discord.gg/devs"><img src="https://invidget.switchblade.xyz/xdBnJjUXJv"/></a>
-<br><br>
-</div>
 
 # Need Help
 > Need help? Join our server or you can dm me in discord.
