@@ -10,3 +10,11 @@
   "google": "GOOGLE_KEY"
 }
 ```
+# Contributors
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Joovzx"><img src="https://github.com/Joovzx.png" width="100px;" alt=""/><br /><sub><b>Joovzx Immanuel</b></sub></a><br /><a href="https://github.com/Joovzx" title="Developers">💻</a></td>
+  </tr>
+  
+</table>
