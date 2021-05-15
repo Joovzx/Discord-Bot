@@ -18,3 +18,12 @@
   </tr>
   
 </table>
+
+# Language
+- <code><img height="20" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=333333"></code>
+
+# Our Discord Server
+
+<a href="https://discord.gg/devs"><img src="https://invidget.switchblade.xyz/xdBnJjUXJv"/></a>
+<br><br>
+</div>
